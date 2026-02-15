@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "fanc"]
-	path = fanc
-	url = https://github.com/cran/fanc
 [submodule "msgps"]
 	path = msgps
 	url = https://github.com/cran/msgps
